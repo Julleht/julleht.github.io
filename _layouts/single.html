@@ -46,6 +46,7 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+        {% include figure image_path="/assets/images/jl_logo.png" alt="this is a placeholder image" caption="This is a figure caption." %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
