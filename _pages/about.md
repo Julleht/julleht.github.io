@@ -3,7 +3,7 @@ permalink: /about/
 title: "Minusta"
 ---
 
-## Profiili
+## Julius Lehtinen
 Kuuro, tietoteknisesti osaava, niin kvantitatiivisia kuin kvalitatiivisia menetelmiä taitava VTM, jolla kynä pysyy kädessä ja sanottavaa on. Eurooppalaisen politiikan tuntija ja post-nihilistinen pojankloppi. Intohimona data ja sen esittäminen, visuaalisesti ja tekstuaalisesti.
 
 ## Taidot
