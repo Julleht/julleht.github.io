@@ -4,7 +4,7 @@ title: "Minusta"
 ---
 
 ## Profiili
-Kuuro, tietoteknisesti osaava, niin kvantitatiivisia kuin kvalitatiivisia menetelmiä taitava VTM politiikasta ja viestinnästä, jolla kynä pysyy kädessä ja sanottavaa on. Intohimona data ja sen esittäminen, visuaalisesti ja tekstuaalisesti.
+Kuuro, tietoteknisesti osaava, niin kvantitatiivisia kuin kvalitatiivisia menetelmiä taitava VTM, jolla kynä pysyy kädessä ja sanottavaa on. Intohimona data ja sen esittäminen, visuaalisesti ja tekstuaalisesti.
 
 ## Taidot
 - Datavisualisointi (R, PowerBI)
@@ -44,4 +44,4 @@ Suomalaisen politiikan tilastoihin keskittyvä dataprojekti<br>
 Puolueiden kannatusmittauksen keräämistä, aggregointia & analysointia<br>
 Vaalihistoriaa, puolueiden ja edustajien tilastoinnin ylläpitämistä<br>
 
-Valikoituja kirjoituksia on listattu [viereisellä sivulla](/works)
+Valikoituja kirjoituksiani on listattu [viereisellä sivulla](/works)
