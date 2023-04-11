@@ -18,8 +18,10 @@ Kuuro, tietoteknisesti osaava, niin kvantitatiivisia kuin kvalitatiivisia menete
 - Akateeminen ja monipuolinen englanti
 
 ## Tutkinnot
-- Valtiotieteiden maisteri<br>Helsingin yliopisto 2020–2022
-- Valtiotieteiden kandidaatti<br>Hrlsingin yliopisto 2016–2020
+- **Valtiotieteiden maisteri**<br>
+Helsingin yliopisto 2020–2022
+- **Valtiotieteiden kandidaatti**<br>
+Helsingin yliopisto 2016–2020
 
 ## Työkokemus
 - **Tekninen assistentti, Helsingin yliopisto, 2022–**<br>
@@ -37,7 +39,7 @@ Toimituksen ja tekstien oganisointia sekä aikatauluttamista<br>
 Eurooppalaisen politiikan ilmiöitä ymmärrettävästi kotimaiselle yleisölle<br>
 Tekstien havainnollistamista grafiikalla ja julkaisemista WordPressissä<br>
 
-- **Perustaja & ylläpitäjä, Databyro, 2019–**
+- **Perustaja & ylläpitäjä, Databyro, 2019–**<br>
 Suomalaisen politiikan tilastoihin keskittyvä dataprojekti<br>
 Puolueiden kannatusmittauksen keräämistä, aggregointia & analysointia<br>
 Vaalihistoriaa, puolueiden ja edustajien tilastoinnin ylläpitämistä<br>
