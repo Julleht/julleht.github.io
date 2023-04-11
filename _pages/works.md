@@ -9,6 +9,8 @@ title: "Projekteja ja julkaisuja"
 - <a href="https://ulkopolitist.fi" target="_blank">Ulkopolitist</a>
 
 ## Valikoituja julkaisuja
+- <a href="https://ulkopolitist.fi/2022/09/18/lansimainen-vasemmisto-keskittyy-vahemman-talouteen-keskiluokkaistuu-ja-kouluttautuu-duunarit-karkaavat-oikeistoon/" target="_blank">Länsimainen vasemmisto keskittyy vähemmän talouteen, keskiluokkaistuu ja kouluttautuu – duunarit karkaavat oikeistoon</a><br>
+Ulkopolitist, 09/2022
 - <a href="https://helda.helsinki.fi/handle/10138/345598" target="_blank">Accidental Politicians, Pluralised : How Randomly Selected Legislators Can Enhance the Parliament Outputs in a Multiparty System</a><br>
 Helsingin yliopisto, 07/22
 - <a href="https://europeelects.eu/2021/04/05/greenland-parliamentary-elections-independence-on-the-horizon/" target="_blank">Greenland Parliamentary Elections: Independence on the Horizon</a><br>
