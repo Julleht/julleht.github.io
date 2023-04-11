@@ -44,4 +44,5 @@ Suomalaisen politiikan tilastoihin keskittyvä dataprojekti<br>
 Puolueiden kannatusmittauksen keräämistä, aggregointia & analysointia<br>
 Vaalihistoriaa, puolueiden ja edustajien tilastoinnin ylläpitämistä<br>
 
-Valikoituja kirjoituksiani on listattu [viereisellä sivulla](/works)
+Valikoituja kirjoituksiani on listattu [viereisellä sivulla](/works).<br>
+Kompakti Curriculum Vitae on ladattavissa PDF-muodossa [täältä](/assets/images/CV_Julius_Lehtinen.pdf).
