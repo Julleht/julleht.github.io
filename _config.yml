@@ -76,7 +76,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/julleht"
+      url: <a href="https://twitter.com/julleht" target="_blank"></a>
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/julleht"
