@@ -11,7 +11,7 @@ Kuuro, tietoteknisesti osaava, niin kvantitatiivisia kuin kvalitatiivisia menete
 - Datankäsittely (R, Excel)
 - Tilastollinen analyysi (R, Excel)
 - Tietokantojen manipulointi (SQL)
-- IT-osaaminen (HTML, CSS, XML)
+- IT-osaaminen (HTML, CSS, XML, Markdown)
 - Kirjoittaminen ja editointi (Word)
 - Eurooppalainen politiikka
 - Erinomainen suomen kieli
