@@ -80,7 +80,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/julleht"
-    - label: "E-mail"
+    - label: "Sähköposti"
       icon: "fas fa-envelope"
       url: "mailto:julius.lehtinen@databyro.fi"
 
