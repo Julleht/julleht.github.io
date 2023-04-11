@@ -1,5 +1,5 @@
 main:
-  - title: "Projekteja ja julkaisuja"
-    url: /works/
   - title: "Minusta"
     url: /about/
+  - title: "Projekteja ja julkaisuja"
+    url: /works/
