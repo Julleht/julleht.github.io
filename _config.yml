@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Julius Lehtinen"
-  avatar : "/assets/images/bio-photo.jpg"
+#  name   : "Julius Lehtinen"
+#  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Kuuro, dataneppailija, eurooppalaisen politiikan tuntija, post-nihilistinen pojankloppi ja VTM."
   links:
     - label: "Twitter"
