@@ -64,7 +64,7 @@ author:
   bio    : "Kuuro, dataneppailija, eurooppalaisen politiikan tuntija, post-nihilistinen pojankloppi ja VTM."
   links:
     - label: "Twitter"
-      icon: "fa fa-twitter-square"
+      icon: "fa-brands fa-twitter"
       url: "https://twitter.com/julleht"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -76,7 +76,7 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fa fa-twitter-square"
+      icon: "fa-brands fa-twitter"
       url: "https://twitter.com/julleht"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
