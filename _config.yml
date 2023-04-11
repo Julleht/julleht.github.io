@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Julius Lehtinen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Kuuro, dataneppailija, eurooppalaisen politiikan tuntija, post-nihilistinen pojankloppi ja VTM. Editor-in-chief @EuropeElects, toimitussihteeri @Ulkopolitist"
+  bio    : "Kuuro, dataneppailija, eurooppalaisen politiikan tuntija, post-nihilistinen pojankloppi ja VTM."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
