@@ -36,7 +36,7 @@ layout: default
           {% include page__meta.html %}
         </header>
       {% endunless %}
-
+        {% include figure image_path="/assets/images/jl_logo.png" alt="this is a placeholder image" caption="This is a figure caption." %}
       <section class="page__content e-content" itemprop="text">
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
@@ -46,7 +46,6 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-        {% include figure image_path="/assets/images/jl_logo.png" alt="this is a placeholder image" caption="This is a figure caption." %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
