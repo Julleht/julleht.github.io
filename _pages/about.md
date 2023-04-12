@@ -27,7 +27,7 @@ Helsingin yliopisto 2016–2020
 - **Tekninen assistentti, Helsingin yliopisto, 2022–**<br>
 Eduskuntavaalitutkimuksessa auttamista<br>
 Suomalaisten äänestäjien rakenteen visualisointia<br>
-kyselytutkimuksissa ja tutkimusprojekteissa avustamista<br>
+Kyselytutkimuksissa ja tutkimusprojekteissa avustamista<br>
 
 - **Päätoimittaja, Europe Elects, 2019–**<br>
 Eurooppalaisten valtioiden puoluegallupien keräämistä ja analysointia<br>
